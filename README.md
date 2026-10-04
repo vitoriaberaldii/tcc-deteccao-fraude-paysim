@@ -1,2 +1,3 @@
 # tcc-deteccao-fraude-paysim
-Código do TCC — MBA Data Science e Analytics USP/Esalq: Regressão Logística vs XGBoost na detecção de fraude (PaySim)
+Este repositório contém o código-fonte utilizado no Trabalho de Conclusão de Curso com o tema “Detecção de fraudes em transações financeiras: comparação entre Regressão Logística e XGBoost”, desenvolvido na pós-graduação em Data Science e Analytics da USP/Esalq.  
+A análise utiliza a base pública PaySim (https://www.kaggle.com/datasets/ealaxi/paysim1) e compara os dois modelos considerando o forte desbalanceamento entre transações legítimas e fraudulentas. O fluxo inclui preparação e auditoria dos dados, divisão temporal em treino, validação e teste, ponderação das classes, seleção do limiar de classificação, avaliação dos modelos e análise complementar de interpretabilidade com SHAP. 
