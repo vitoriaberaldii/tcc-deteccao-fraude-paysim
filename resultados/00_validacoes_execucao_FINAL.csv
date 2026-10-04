@@ -1,0 +1,11 @@
+﻿validacao,valor
+modo_final,True
+shap_ativado,True
+prevalencia_treino,0.0021784439933391843
+train_last_step,520
+val_last_step,631
+n_treino,2653729
+n_validacao,78701
+n_teste,37979
+threshold_lr,0.9981662631034851
+threshold_xgb,0.9199391007423401
